@@ -2,6 +2,10 @@
 Latihan Praktikum Semantic HTML
 
 ## SEMANTIC HTML PROJECT
+Nama   : Lisa Ameilia D <br>
+NIM    : 2205101008 <br>
+Kelas  : TIF 5B <br>
+
   # Index.html
     1. Kekurangan
         - belum ada <html lang="id">
